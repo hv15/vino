@@ -1,0 +1,5 @@
+baseURL = "https://vino.viess.mn/"
+languageCode = "en-us"
+title = "Vino"
+theme = "ticky_tacky_dark"
+publishdir = "docs"
