@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vino</title>
+    <title>Content on Vino</title>
     <link>https://vino.viess.mn/</link>
-    <description>Recent content on Vino</description>
+    <description>Recent content in Content on Vino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>hans&#43;vino AT viess DOT mn (Hans-Nikolai Viessmann)</managingEditor>
+    <webMaster>hans&#43;vino AT viess DOT mn (Hans-Nikolai Viessmann)</webMaster>
+    <lastBuildDate>Mon, 23 Mar 2020 21:33:39 +0100</lastBuildDate>
     
 	<atom:link href="https://vino.viess.mn/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://vino.viess.mn/about/</link>
+      <pubDate>Thu, 26 Mar 2020 19:03:48 +0100</pubDate>
+      <author>hans&#43;vino AT viess DOT mn (Hans-Nikolai Viessmann)</author>
+      <guid>https://vino.viess.mn/about/</guid>
+      <description>For many years now I have been tasting a great many wines, but until recently I had not thought to record my experiences of this. Over time one begins to develop a sense for a particular grape, region, and even vintage; but I sometimes fail to remember the name (or vintage) of a wine I tasted previously. This site exists to hold this information, including images of the label (and bottle) as well as a personal review.</description>
+    </item>
+    
+    <item>
+      <title>Lagoalva Reserva 2016</title>
+      <link>https://vino.viess.mn/lagoalva-2016/</link>
+      <pubDate>Thu, 26 Mar 2020 18:48:49 +0100</pubDate>
+      <author>hans&#43;vino AT viess DOT mn (Hans-Nikolai Viessmann)</author>
+      <guid>https://vino.viess.mn/lagoalva-2016/</guid>
+      <description>Lagoalva Reserva 2016 A very full-bodied, mellow wine that needs some time to breath, but which is a joy to drink. Fits well with most red meats.
+ Bought Feb. 2020 in Hieber&amp;rsquo;s Frische Center in Bad Krozingen Price 11.89 Euro  </description>
+    </item>
     
   </channel>
 </rss>

@@ -3,3 +3,11 @@ languageCode = "en-us"
 title = "Vino"
 theme = "ticky_tacky_dark"
 publishdir = "docs"
+enableRobotsTXT = true
+
+[params]
+    headername = "Vino, a memoir"
+
+[Author]
+    name = "Hans-Nikolai Viessmann"
+    email = "hans+vino AT viess DOT mn"
